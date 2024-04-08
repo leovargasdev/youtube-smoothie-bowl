@@ -1,7 +1,3 @@
-<h1 align="center">
-  Landing page - Smoothies bowls
-</h1>
-
 <p align="center">
   <img src=".github/preview.png" width="100%" />
 </p>
